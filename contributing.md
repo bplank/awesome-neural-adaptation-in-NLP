@@ -11,7 +11,13 @@ You'll need a [GitHub account](https://github.com/join)!
 5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
+## Adding a paper
 
+1. Make sure it is not listed already
+2. Add it to both "by methods" and "by task". 
+3. If the task is not covered yet, make a suggestion to add it. :)
+
+Thanks for contributing.
 
 ## Updating your Pull Request
 
