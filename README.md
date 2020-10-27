@@ -1,6 +1,6 @@
-# awesome-neural-adaptation-in-NLP [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# awesome-neural-adaptation-in-NLP 
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome work on neural unsupervised domain adaptation in Natural Language Processing, including links to papers. The current focus is on *unsupervised* neural DA methods. Feel free to contribute by creating a pull request as outlined in [contributing.md](contributing.md).
 
@@ -78,10 +78,11 @@ Please cite our [[survey paper]](https://arxiv.org/abs/2006.00632) (to appear in
 
 # Collections
 
-Other awesome collections for domain adaptation and transfer learning
+Related awesome collections:
 
 - [awsome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 - [NLP progress page for domain adaptation](http://nlpprogress.com/english/domain_adaptation.html)
+- [awesome-datascience](https://github.com/academic/awesome-datascience)
 
 # Related Topics
 
