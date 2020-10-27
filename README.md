@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
-This repository contain a collection of awesome work on neural domain adaptation in Natural Language Processing, including links to paper and code. The current focus is on *unsupervised* neural DA methods. Feel free to contribute by creating a pull request.
+A curated collection of awesome work on neural unsupervised domain adaptation in Natural Language Processing, including links to papers. The current focus is on *unsupervised* neural DA methods. Feel free to contribute by creating a pull request as outlined in [contributing.md](contributing.md).
 
 ![taxonomy image](https://github.com/bplank/awesome-neural-adaptation-in-NLP-temp/blob/master/taxonomy.png?raw=true)
 
