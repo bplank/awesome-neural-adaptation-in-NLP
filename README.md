@@ -1,8 +1,8 @@
-# awesome-neural-adaptation-in-NLP
+# awesome-neural-adaptation-in-NLP [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
-A curated collection of awesome work on neural unsupervised domain adaptation in Natural Language Processing, including links to papers. The current focus is on *unsupervised* neural DA methods. Feel free to contribute by creating a pull request as outlined in [contributing.md](contributing.md).
+A curated list of awesome work on neural unsupervised domain adaptation in Natural Language Processing, including links to papers. The current focus is on *unsupervised* neural DA methods. Feel free to contribute by creating a pull request as outlined in [contributing.md](contributing.md).
 
 ![taxonomy image](https://github.com/bplank/awesome-neural-adaptation-in-NLP-temp/blob/master/taxonomy.png?raw=true)
 
