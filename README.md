@@ -4,7 +4,7 @@
 
 A curated list of awesome work on neural unsupervised domain adaptation in Natural Language Processing, including links to papers. The focus is on *unsupervised* neural DA methods and currently on work outside Machine Translation. Feel free to contribute by creating a pull request as outlined in [contributing.md](contributing.md).
 
-![taxonomy image](https://github.com/bplank/awesome-neural-adaptation-in-NLP-temp/blob/master/taxonomy.png?raw=true)
+![taxonomy image](https://github.com/bplank/awesome-neural-adaptation-in-NLP/blob/master/taxonomy.png?raw=true)
 
 Please cite our [[survey paper]](https://arxiv.org/abs/2006.00632) (to appear in COLING 2020) if you find it useful in your research:
 ```
