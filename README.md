@@ -74,6 +74,8 @@ Please cite our [[survey paper]](https://arxiv.org/abs/2006.00632) (to appear in
 
 - Neural Transfer Learning for NLP [[Ruder, 2019; PhD dissertation]](https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf)
 
+**Low-resource NLP**
+- A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios [Hedderich et al., 2020](https://arxiv.org/abs/2010.12309)
 
 
 # Collections
