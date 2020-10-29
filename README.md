@@ -22,8 +22,6 @@ Please cite our [[survey paper]](https://arxiv.org/abs/2006.00632) (to appear in
 # Contents
 - [Surveys](#surveys)
 - [Collections](#collections)
-- [Related Topics](#related-topics)
-
 - [Unsupervised DA](#unsupervised-da)
   - [**By methods**](#by-methods)
     - [Model centric methods](#model-centric-methods)
@@ -56,6 +54,8 @@ Please cite our [[survey paper]](https://arxiv.org/abs/2006.00632) (to appear in
 
 # Surveys
 
+Overview of surveys in other areas and related topics.
+
 **Machine Learning**
 - A Survey on Transfer Learning [[Pan & Yang, 2010, IEEE]](https://sci-hub.tw/10.1109/msp.2014.2347059&)
 
@@ -65,7 +65,7 @@ Please cite our [[survey paper]](https://arxiv.org/abs/2006.00632) (to appear in
 **Machine Translation**
 - A Survey of Domain Adaptation for Neural Machine Translation [[Chu & Wang, COLING 2018]](https://www.aclweb.org/anthology/C18-1111.pdf)
 
-**Domain Adaptation in NLP**
+**Pre-neural surveys on Domain Adaptation in NLP**
 - Domain Adaptation in Natural Language Processing [[Jiang, 2008; PhD dissertation, chapter 2]](https://www.ideals.illinois.edu/handle/2142/10870)
 - A Literature Survey on Domain Adaptation of Statistical Classifiers [[Jiang, 2008, technical report]](http://www.mysmu.edu/faculty/jingjiang/papers/da_survey.pdf)
 - Domain Adaptation for Parsing [[Plank, 2011; PhD dissertation, chapter 3]](https://www.rug.nl/research/portal/files/10469724/03c3.pdf)
@@ -77,6 +77,12 @@ Please cite our [[survey paper]](https://arxiv.org/abs/2006.00632) (to appear in
 **Low-resource NLP**
 - A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios [Hedderich et al., 2020](https://arxiv.org/abs/2010.12309)
 
+**Cross-Lingual Learning**
+- A Survey of Cross-lingual Word Embedding Models [[Ruder, Vulić, Søgaard, JAIR 2019]](https://www.jair.org/index.php/jair/article/view/11640)
+
+**Multi-task Learning**
+- An Overview of Multi-Task Learning in Deep Neural Networks
+[[Ruder, arXiv 2017]](https://arxiv.org/abs/1706.05098)
 
 # Collections
 
@@ -87,16 +93,6 @@ Related awesome collections:
 - [awesome-datascience](https://github.com/academic/awesome-datascience)
 - [The-NLP-Pandect](https://github.com/bplank/The-NLP-Pandect)
 
-# Related Topics
-
-Surveys on related topics 
-
-**Cross-Lingual Learning**
-- A Survey of Cross-lingual Word Embedding Models [[Ruder, Vulić, Søgaard, JAIR 2019]](https://www.jair.org/index.php/jair/article/view/11640)
-
-**Multi-task Learning**
-- An Overview of Multi-Task Learning in Deep Neural Networks
-[[Ruder, arXiv 2017]](https://arxiv.org/abs/1706.05098)
 
 
 # Unsupervised DA
