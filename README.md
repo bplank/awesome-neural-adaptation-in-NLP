@@ -130,6 +130,7 @@ A list of papers categorized by methods.
 - A Comparative Analysis of Unsupervised Language Adaptation Methods [[Rocha, Lopes Cardoso, DeepLo 2019]](https://www.aclweb.org/anthology/D19-6102)
 - KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis [[Ghosal et al., ACL 2020]](https://www.aclweb.org/anthology/2020.acl-main.292)
 - Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation [[Naik, Rose, ACL 2020]](https://www.aclweb.org/anthology/2020.acl-main.681)
+- Transformer Based Multi-Source Domain Adaptation [[Wright and Augenstein, EMNLP 2020]](https://arxiv.org/pdf/2009.07806.pdf)
 
 ### Data centric methods
 
@@ -190,6 +191,7 @@ All papers pertaining to classification and inference tasks are indicated in the
 - Adversarial Adaptation of Synthetic or Stale Data [[Kim et al., ACL 2017]](https://www.aclweb.org/anthology/P17-1119)
 - Domain Adaptation with Adversarial Training and Graph Embeddings [[Alam et al., ACL 2018]](https://www.aclweb.org/anthology/P18-1099)
 - Don't Stop Pretraining: Adapt Language Models to Domains and Tasks [[Gururangan et al., ACL 2020]](https://www.aclweb.org/anthology/2020.acl-main.740/)
+- Transformer Based Multi-Source Domain Adaptation [[Wright and Augenstein, EMNLP 2020]](https://arxiv.org/pdf/2009.07806.pdf)
 
 ##### Machine reading
 
