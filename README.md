@@ -84,6 +84,10 @@ Overview of surveys in other areas and related topics.
 - An Overview of Multi-Task Learning in Deep Neural Networks
 [[Ruder, arXiv 2017]](https://arxiv.org/abs/1706.05098)
 
+**Domain Divergence**
+
+- Domain Divergences: A Survey and Empirical Analysis [Kashyap et al. 2020](https://arxiv.org/abs/2010.12198)
+
 # Collections
 
 Related awesome collections:
