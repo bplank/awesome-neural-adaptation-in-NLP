@@ -86,7 +86,7 @@ Overview of surveys in other areas and related topics.
 
 **Domain Divergence**
 
-- Domain Divergences: A Survey and Empirical Analysis [Kashyap et al. 2020](https://arxiv.org/abs/2010.12198)
+- Domain Divergences: A Survey and Empirical Analysis [[Kashyap et al. 2020](https://arxiv.org/abs/2010.12198)]
 
 # Collections
 
