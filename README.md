@@ -6,16 +6,20 @@ A curated list of awesome work on neural unsupervised domain adaptation in Natur
 
 ![taxonomy image](https://github.com/bplank/awesome-neural-adaptation-in-NLP/blob/master/taxonomy.png?raw=true)
 
-Please cite our [[survey paper]](https://arxiv.org/abs/2006.00632) (to appear in COLING 2020) if you find it useful in your research:
+Please cite our [[survey paper]](https://arxiv.org/abs/2006.00632) ([[Ramponi and Plank, COLING 2020]](https://www.aclweb.org/anthology/2020.coling-main.603/)) if you find it useful in your research:
 ```
-  @article{ramponi-and-plank-2020-neural,
-      title={Neural Unsupervised Domain Adaptation in NLP---A Survey},
-      author={Ramponi, Alan, and Plank, Barbara},
-      year={2020},
-      journal={arXiv preprint arXiv:2005.14672},
-      eprint={2005.14672},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{ramponi-plank-2020-neural,
+    title = "Neural Unsupervised Domain Adaptation in {NLP}{---}{A} Survey",
+    author = "Ramponi, Alan  and
+      Plank, Barbara",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-main.603",
+    doi = "10.18653/v1/2020.coling-main.603",
+    pages = "6838--6855"
 }
 ```
 
@@ -139,6 +143,8 @@ A list of papers categorized by methods.
 - Transformer Based Multi-Source Domain Adaptation [[Wright and Augenstein, EMNLP 2020]](https://arxiv.org/pdf/2009.07806.pdf)
 - Unsupervised Cross-Lingual Adaptation of Dependency Parsers Using CRF Autoencoders [[Li and Tu, Findings of EMNLP 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.193/)
 - Effective Unsupervised Domain Adaptation with Adversarially Trained Language Models [[Vu et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.497/)
+- Inexpensive Domain Adaptation of Pretrained Language Models: Case Studies on Biomedical NER and Covid-19 QA [[Poerner et al., Findings of EMNLP 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.134/)
+
 
 
 ### Data centric methods
@@ -148,6 +154,7 @@ A list of papers categorized by methods.
 - Adaptive Ensembling: Unsupervised Domain Adaptation for Political Document Analysis [[Desai et al., EMNLP-IJCNLP 2019]](https://www.aclweb.org/anthology/D19-1478)
 - Don't Stop Pretraining: Adapt Language Models to Domains and Tasks [[Gururangan et al., ACL 2020]](https://www.aclweb.org/anthology/2020.acl-main.740/)
 - End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems [[Shakeri et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.439/)
+- Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training [[Ye et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.599/)
 
 ### Hybrid methods
 
@@ -191,6 +198,8 @@ All papers pertaining to classification and inference tasks are indicated in the
 - Self-Adaptation for Unsupervised Domain Adaptation [[Cui, Bollegala, RANLP 2019]](https://www.aclweb.org/anthology/R19-1025)
 - Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits [[Guo et al., AAAI 2020]](https://arxiv.org/abs/2001.04362)
 - PERL: Pivot-Based Domain Adaptation for Pre-Trained Deep Contextualized Embedding Models [[Ben-David et al., TACL 2020]](https://arxiv.org/abs/2006.09075)
+- Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training [[Ye et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.599/)
+
 
 #### Language identification
 
@@ -257,6 +266,7 @@ All papers pertaining to structured prediction tasks are indicated in the respec
 - Cross-Domain NER using Cross-Domain Language Modeling [[Jia et al., ACL 2019]](https://www.aclweb.org/anthology/P19-1236)
 - Multi-Task Domain Adaptation for Sequence Tagging [[Peng, Dredze, RepL4NLP 2017]](https://www.aclweb.org/anthology/W17-2612)
 - Effective Unsupervised Domain Adaptation with Adversarially Trained Language Models [[Vu et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.497/)
+- Inexpensive Domain Adaptation of Pretrained Language Models: Case Studies on Biomedical NER and Covid-19 QA [[Poerner et al., Findings of EMNLP 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.134/)
 
 #### Relation extraction
 
