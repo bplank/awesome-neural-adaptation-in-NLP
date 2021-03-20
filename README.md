@@ -41,6 +41,7 @@ Please cite our [[survey paper]](https://arxiv.org/abs/2006.00632) (to appear in
         - [Duplicate question detection](#duplicate-question-detection)
         - [Stance detection](#stance-detection)
         - [Political data identification](#political-data-identification)
+    - [Question answering](#question-answering)
     - [Structured prediction](#structured-prediction)
       - [Natural language inference](#natural-language-inference)
       - [Part-of-speech tagging](#pos-tagging)
@@ -136,6 +137,9 @@ A list of papers categorized by methods.
 - KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis [[Ghosal et al., ACL 2020]](https://www.aclweb.org/anthology/2020.acl-main.292)
 - Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation [[Naik, Rose, ACL 2020]](https://www.aclweb.org/anthology/2020.acl-main.681)
 - Transformer Based Multi-Source Domain Adaptation [[Wright and Augenstein, EMNLP 2020]](https://arxiv.org/pdf/2009.07806.pdf)
+- Unsupervised Cross-Lingual Adaptation of Dependency Parsers Using CRF Autoencoders [[Li and Tu, Findings of EMNLP 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.193/)
+- Effective Unsupervised Domain Adaptation with Adversarially Trained Language Models [[Vu et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.497/)
+
 
 ### Data centric methods
 
@@ -143,6 +147,7 @@ A list of papers categorized by methods.
 - Semi-supervised Domain Adaptation for Dependency Parsing [[Li et al., ACL 2019]](https://www.aclweb.org/anthology/P19-1229)
 - Adaptive Ensembling: Unsupervised Domain Adaptation for Political Document Analysis [[Desai et al., EMNLP-IJCNLP 2019]](https://www.aclweb.org/anthology/D19-1478)
 - Don't Stop Pretraining: Adapt Language Models to Domains and Tasks [[Gururangan et al., ACL 2020]](https://www.aclweb.org/anthology/2020.acl-main.740/)
+- End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems [[Shakeri et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.439/)
 
 ### Hybrid methods
 
@@ -154,6 +159,7 @@ A list of papers categorized by methods.
 - Multi-Task Domain Adaptation for Sequence Tagging [[Peng, Dredze, RepL4NLP 2017]](https://www.aclweb.org/anthology/W17-2612)
 - Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits [[Guo et al., AAAI(?) 2020]](https://arxiv.org/abs/2001.04362)
 - PERL: Pivot-Based Domain Adaptation for Pre-Trained Deep Contextualized Embedding Models [[Ben-David et al., TACL 2020]](https://arxiv.org/abs/2006.09075)
+- Unsupervised Adaptation of Question Answering Systems via Generative Self-training [[Rennie et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.87/)
 
 ## By tasks
 
@@ -214,6 +220,11 @@ All papers pertaining to classification and inference tasks are indicated in the
 
 - Adaptive Ensembling: Unsupervised Domain Adaptation for Political Document Analysis [[Desai et al., EMNLP-IJCNLP 2019]](https://www.aclweb.org/anthology/D19-1478)
 
+### Question answering
+
+- Unsupervised Adaptation of Question Answering Systems via Generative Self-training [[Rennie et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.87/)
+- End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems [[Shakeri et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.439/)
+
 ### Structured prediction
 
 All papers pertaining to structured prediction tasks are indicated in the respective sections below.
@@ -236,6 +247,7 @@ All papers pertaining to structured prediction tasks are indicated in the respec
 - Adversarial Training for Cross-Domain Universal Dependency Parsing [[Sato et al., CoNLL 2017]](https://www.aclweb.org/anthology/K17-3007)
 - Semi-supervised Domain Adaptation for Dependency Parsing [[Li et al., ACL 2019]](https://www.aclweb.org/anthology/P19-1229)
 - Deep Contextualized Self-Training for Low Resource Dependency Parsing [[Rotman, Reichart, TACL 2019]](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00294)
+- Unsupervised Cross-Lingual Adaptation of Dependency Parsers Using CRF Autoencoders [[Li and Tu, Findings of EMNLP 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.193/)
 
 #### Named entity recognition
 
@@ -244,6 +256,7 @@ All papers pertaining to structured prediction tasks are indicated in the respec
 - Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling [[Han, Eisenstein, EMNLP-IJCNLP 2019]](https://www.aclweb.org/anthology/D19-1433)
 - Cross-Domain NER using Cross-Domain Language Modeling [[Jia et al., ACL 2019]](https://www.aclweb.org/anthology/P19-1236)
 - Multi-Task Domain Adaptation for Sequence Tagging [[Peng, Dredze, RepL4NLP 2017]](https://www.aclweb.org/anthology/W17-2612)
+- Effective Unsupervised Domain Adaptation with Adversarially Trained Language Models [[Vu et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.497/)
 
 #### Relation extraction
 
