@@ -97,7 +97,7 @@ Related awesome collections:
 - [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 - [NLP progress page for domain adaptation](http://nlpprogress.com/english/domain_adaptation.html)
 - [awesome-datascience](https://github.com/academic/awesome-datascience)
-- [The-NLP-Pandect](https://github.com/bplank/The-NLP-Pandect)
+- [The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 
 
 
