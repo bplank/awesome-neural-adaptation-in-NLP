@@ -61,6 +61,7 @@ Overview of surveys in other areas and related topics.
 
 **Vision**
 - Deep Visual Domain Adaptation: A Survey [[Wang & Deng, Neurocomputing 2018]](https://arxiv.org/abs/1802.03601v4)
+- Generalizing to Unseen Domains: A Survey on Domain Generalization [Wang et al., 2021 (technical report), ArXiv](https://arxiv.org/abs/2103.03097)
 
 **Machine Translation**
 - A Survey of Domain Adaptation for Neural Machine Translation [[Chu & Wang, COLING 2018]](https://www.aclweb.org/anthology/C18-1111.pdf)
