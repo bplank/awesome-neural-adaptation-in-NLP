@@ -46,6 +46,7 @@ Please cite our [[survey paper]](https://arxiv.org/abs/2006.00632) ([[Ramponi an
         - [Stance detection](#stance-detection)
         - [Political data identification](#political-data-identification)
     - [Question answering](#question-answering)
+    - [Summarization](#summarization)
     - [Structured prediction](#structured-prediction)
       - [Natural language inference](#natural-language-inference)
       - [Part-of-speech tagging](#pos-tagging)
@@ -155,6 +156,7 @@ A list of papers categorized by methods.
 - Don't Stop Pretraining: Adapt Language Models to Domains and Tasks [[Gururangan et al., ACL 2020]](https://www.aclweb.org/anthology/2020.acl-main.740/)
 - End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems [[Shakeri et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.439/)
 - Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training [[Ye et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.599/)
+- UDALM: Unsupervised Domain Adaptation through Language Modeling [[Karouzos et al., NAACL 2021]](https://www.aclweb.org/anthology/2021.naacl-main.203.pdf) [N.B. similar to aux-MLM which was contemporaneously proposed for cross-lingual learning by [[van der Goot et al., 2021 NAACL]](https://www.aclweb.org/anthology/2021.naacl-main.197.pdf))
 
 ### Hybrid methods
 
@@ -199,6 +201,7 @@ All papers pertaining to classification and inference tasks are indicated in the
 - Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits [[Guo et al., AAAI 2020]](https://arxiv.org/abs/2001.04362)
 - PERL: Pivot-Based Domain Adaptation for Pre-Trained Deep Contextualized Embedding Models [[Ben-David et al., TACL 2020]](https://arxiv.org/abs/2006.09075)
 - Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training [[Ye et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.599/)
+- UDALM: Unsupervised Domain Adaptation through Language Modeling [[Karouzos et al., NAACL 2021]](https://www.aclweb.org/anthology/2021.naacl-main.203.pdf)
 
 
 #### Language identification
@@ -233,6 +236,10 @@ All papers pertaining to classification and inference tasks are indicated in the
 
 - Unsupervised Adaptation of Question Answering Systems via Generative Self-training [[Rennie et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.87/)
 - End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems [[Shakeri et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.439/)
+
+### Summarization
+
+- AdaptSum: Towards Low-Resource Domain Adaptation forAbstractive Summarization [[Yu et al., NAACL 2021]](https://www.aclweb.org/anthology/2021.naacl-main.471.pdf)
 
 ### Structured prediction
 
