@@ -52,6 +52,7 @@ Please cite our [[survey paper]](https://arxiv.org/abs/2006.00632) ([[Ramponi an
       - [Part-of-speech tagging](#pos-tagging)
       - [Dependency parsing](#dependency-parsing)
       - [Named entity recognition](#named-entity-recognition)
+      - [Event extraction](#event-extraction)
       - [Relation extraction](#relation-extraction)
 
 
@@ -276,6 +277,9 @@ All papers pertaining to structured prediction tasks are indicated in the respec
 - Multi-Task Domain Adaptation for Sequence Tagging [[Peng, Dredze, RepL4NLP 2017]](https://www.aclweb.org/anthology/W17-2612)
 - Effective Unsupervised Domain Adaptation with Adversarially Trained Language Models [[Vu et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.497/)
 - Inexpensive Domain Adaptation of Pretrained Language Models: Case Studies on Biomedical NER and Covid-19 QA [[Poerner et al., Findings of EMNLP 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.134/)
+
+#### Event extraction
+
 - Adapting Event Extractors to Medical Data: Bridging the Covariate Shift [[Naik et al., EACL 2021]](https://aclanthology.org/2021.eacl-main.258.pdf)
 
 #### Relation extraction
