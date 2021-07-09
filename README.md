@@ -145,6 +145,7 @@ A list of papers categorized by methods.
 - Unsupervised Cross-Lingual Adaptation of Dependency Parsers Using CRF Autoencoders [[Li and Tu, Findings of EMNLP 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.193/)
 - Effective Unsupervised Domain Adaptation with Adversarially Trained Language Models [[Vu et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.497/)
 - Inexpensive Domain Adaptation of Pretrained Language Models: Case Studies on Biomedical NER and Covid-19 QA [[Poerner et al., Findings of EMNLP 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.134/)
+- Adapting Event Extractors to Medical Data: Bridging the Covariate Shift [[Naik et al., EACL 2021]](https://aclanthology.org/2021.eacl-main.258.pdf)
 
 
 
@@ -157,6 +158,7 @@ A list of papers categorized by methods.
 - End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems [[Shakeri et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.439/)
 - Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training [[Ye et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.599/)
 - UDALM: Unsupervised Domain Adaptation through Language Modeling [[Karouzos et al., NAACL 2021]](https://www.aclweb.org/anthology/2021.naacl-main.203.pdf) [N.B. similar to aux-MLM which was contemporaneously proposed for cross-lingual learning by [[van der Goot et al., 2021 NAACL]](https://www.aclweb.org/anthology/2021.naacl-main.197.pdf))
+- Adapting Event Extractors to Medical Data: Bridging the Covariate Shift [[Naik et al., EACL 2021]](https://aclanthology.org/2021.eacl-main.258.pdf)
 
 ### Hybrid methods
 
@@ -274,6 +276,7 @@ All papers pertaining to structured prediction tasks are indicated in the respec
 - Multi-Task Domain Adaptation for Sequence Tagging [[Peng, Dredze, RepL4NLP 2017]](https://www.aclweb.org/anthology/W17-2612)
 - Effective Unsupervised Domain Adaptation with Adversarially Trained Language Models [[Vu et al., EMNLP 2020]](https://www.aclweb.org/anthology/2020.emnlp-main.497/)
 - Inexpensive Domain Adaptation of Pretrained Language Models: Case Studies on Biomedical NER and Covid-19 QA [[Poerner et al., Findings of EMNLP 2020]](https://www.aclweb.org/anthology/2020.findings-emnlp.134/)
+- Adapting Event Extractors to Medical Data: Bridging the Covariate Shift [[Naik et al., EACL 2021]](https://aclanthology.org/2021.eacl-main.258.pdf)
 
 #### Relation extraction
 
